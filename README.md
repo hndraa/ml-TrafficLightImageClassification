@@ -182,7 +182,7 @@ The approach can serve as a baseline for educational computer vision projects an
 
 ```text
 
-├── dataset/
+├── dataset.zip/ <--- extract this
 │   ├── stop/
 │   ├── ready/
 │   └── go/
