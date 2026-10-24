@@ -189,7 +189,9 @@ The approach can serve as a baseline for educational computer vision projects an
 ├── screenshots/
 │   ├── dataset-distribution.png
 │   ├── original-image-samples.png
-│   ├── image-preprocessing.png
+│   ├── image-preprocessing(go).png
+│   ├── image-preprocessing(ready).png
+│   ├── image-preprocessing(stop).png
 │   ├── confusion-matrix-without-preprocessing.png
 │   └── confusion-matrix-with-preprocessing.png
 ├── notebooks/
