@@ -102,15 +102,22 @@ Further validation should use a carefully verified dataset with source-level dup
 
 The dataset is examined before splitting to inspect class distribution and sample images.
 
-![Dataset Distribution](screenshots/dataset-distribution.png)
+<img width="790" height="490" alt="image" src="https://github.com/user-attachments/assets/a7a133f3-d57e-4678-8fca-69ea718eac45" />
 
-![Original Image Samples](screenshots/original-image-samples.png)
+
+<img width="844" height="886" alt="image" src="https://github.com/user-attachments/assets/6504b3a2-494e-4709-921b-d7e07afb0c60" />
+
 
 ### Image Preprocessing
 
 The preprocessing experiment applies image enhancement and color segmentation before feature extraction.
 
-![Image Preprocessing](screenshots/image-preprocessing.png)
+<img width="963" height="495" alt="image" src="https://github.com/user-attachments/assets/ab3e2dab-f1ab-4180-a73c-f29b6de2364c" />
+
+<img width="963" height="495" alt="image" src="https://github.com/user-attachments/assets/611b8459-1590-4b75-8f41-5026653e3315" />
+
+<img width="963" height="495" alt="image" src="https://github.com/user-attachments/assets/e2f8a3d3-84cd-4091-ad73-15a2bd32b234" />
+
 
 ### Model Evaluation
 
@@ -140,11 +147,13 @@ Confusion matrices illustrate the distribution of correct and incorrect predicti
 
 **Without Preprocessing**
 
-![Confusion Matrices Without Preprocessing](screenshots/confusion-matrix-without-preprocessing.png)
+<img width="1755" height="490" alt="image" src="https://github.com/user-attachments/assets/2395db5b-7f7f-45e0-8974-d9127e19fa07" />
+
 
 **With Preprocessing**
 
-![Confusion Matrices With Preprocessing](screenshots/confusion-matrix-with-preprocessing.png)
+<img width="1755" height="490" alt="image" src="https://github.com/user-attachments/assets/a3ffadbd-f9c0-4a1d-9db7-d71283068450" />
+
 
 ### Insights
 
