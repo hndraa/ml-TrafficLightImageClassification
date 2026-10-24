@@ -197,7 +197,7 @@ The approach can serve as a baseline for educational computer vision projects an
 
    ```bash
    git clone https://github.com/YOUR_USERNAME/ml-TrafficLightImageClassification.git
-   cd Traffic-Vision
+   cd ml-TrafficLightImageClassification
    ```
 
 2. Install the dependencies:
